@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Reverr",
+    "slug": "Reverr",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Reverr"
+}
